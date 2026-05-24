@@ -1,12 +1,7 @@
 import { faker } from '@faker-js/faker';
 import { Brand } from './brands-schema';
 
-/**
- * Generates 10 seed brand documents, each covering a distinct test case.
- * All documents conform to the Brands schema.
- *
- * Cases documented in seed-cases.xlsx.
- */
+
 function buildSeedDocuments() {
     const currentYear = new Date().getFullYear();
 
@@ -86,7 +81,6 @@ function buildSeedDocuments() {
 export async function runSeeding(): Promise<void> {
     const seedDocs = buildSeedDocuments();
 
-    console.log(`\nSeeding ${seedDocs.length} new brand documents...\n`);
 
     let successCount = 0;
 

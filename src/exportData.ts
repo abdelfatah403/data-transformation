@@ -65,5 +65,4 @@ async function exportToExcel(docs: any[]): Promise<void> {
 
     const outputPath = path.resolve(exportsDir, 'brands_exported.xlsx');
     await workbook.xlsx.writeFile(outputPath);
-    console.log(`Exported ${docs.length} documents to Excel: ${outputPath}`);
 }
