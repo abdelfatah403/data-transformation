@@ -1,0 +1,21 @@
+{
+    "name": "brands-project",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "import": "ts-node src/importData.ts",
+        "transform": "ts-node src/transform.ts",
+        "seed": "ts-node src/seed.ts",
+        "export": "ts-node src/exportData.ts",
+        "run-all": "ts-node src/index.ts"
+    },
+    "dependencies": {
+        "@faker-js/faker": "^9.8.0",
+        "@types/node": "^22.15.21",
+        "exceljs": "^4.4.0",
+        "mongoose": "^8.15.0",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.8.3"
+    }
+}

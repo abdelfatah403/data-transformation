@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Ward, Hand and Ortiz",
+    "yearFounded": 1970,
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "updatedAt": "2026-05-24T13:21:44.189Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1600,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-24T13:21:44.191Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000,
+    "updatedAt": "2026-05-24T13:21:44.192Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1970,
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-24T13:21:44.193Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "yearFounded": 1980,
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-24T13:21:44.194Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-24T13:21:44.195Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1600,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-24T13:21:44.196Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "headquarters": "DuBuqueburgh",
+    "numberOfLocations": 9200,
+    "updatedAt": "2026-05-24T13:21:44.197Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "brandName": "Licensed Concrete Tuna",
+    "yearFounded": 1600,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-24T13:21:44.198Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1600,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-24T13:21:44.199Z"
+  },
+  {
+    "_id": "6a12fb688f15cf2261b59f93",
+    "brandName": "Fisher - Hermann",
+    "yearFounded": 1600,
+    "headquarters": "Bricestad",
+    "numberOfLocations": 66,
+    "createdAt": "2026-05-24T13:21:44.202Z",
+    "updatedAt": "2026-05-24T13:21:44.202Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a12fb688f15cf2261b59f95",
+    "brandName": "Kertzmann, Murray and Langworth",
+    "yearFounded": 2026,
+    "headquarters": "Beierborough",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-24T13:21:44.206Z",
+    "updatedAt": "2026-05-24T13:21:44.206Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a12fb688f15cf2261b59f97",
+    "brandName": "Reichel, Strosin and Douglas",
+    "yearFounded": 1992,
+    "headquarters": "Fort Reymundoshire",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-24T13:21:44.207Z",
+    "updatedAt": "2026-05-24T13:21:44.207Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a12fb688f15cf2261b59f99",
+    "brandName": "Boyer Inc",
+    "yearFounded": 1947,
+    "headquarters": "Margaretcester",
+    "numberOfLocations": 30669,
+    "createdAt": "2026-05-24T13:21:44.208Z",
+    "updatedAt": "2026-05-24T13:21:44.208Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a12fb688f15cf2261b59f9b",
+    "brandName": "Hessel, Barton and Heidenreich",
+    "yearFounded": 2004,
+    "headquarters": "Samaraport",
+    "numberOfLocations": 170,
+    "createdAt": "2026-05-24T13:21:44.209Z",
+    "updatedAt": "2026-05-24T13:21:44.209Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a12fb688f15cf2261b59f9d",
+    "brandName": "Boehm, Dooley and Rath",
+    "yearFounded": 1865,
+    "headquarters": "Riverside",
+    "numberOfLocations": 642,
+    "createdAt": "2026-05-24T13:21:44.210Z",
+    "updatedAt": "2026-05-24T13:21:44.210Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a12fb688f15cf2261b59f9f",
+    "brandName": "Littel LLC",
+    "yearFounded": 1953,
+    "headquarters": "Bentonville",
+    "numberOfLocations": 698,
+    "createdAt": "2026-05-24T13:21:44.210Z",
+    "updatedAt": "2026-05-24T13:21:44.210Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a12fb688f15cf2261b59fa1",
+    "brandName": "Kling - Murazik",
+    "yearFounded": 1646,
+    "headquarters": "South Lia, San Marino",
+    "numberOfLocations": 458,
+    "createdAt": "2026-05-24T13:21:44.211Z",
+    "updatedAt": "2026-05-24T13:21:44.211Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a12fb688f15cf2261b59fa3",
+    "brandName": "Prosacco, Kreiger and Ryan",
+    "yearFounded": 1942,
+    "headquarters": "Reichelfield",
+    "numberOfLocations": 1101,
+    "createdAt": "2026-05-24T13:21:44.212Z",
+    "updatedAt": "2026-05-24T13:21:44.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a12fb688f15cf2261b59fa5",
+    "brandName": "Shanahan Group",
+    "yearFounded": 1954,
+    "headquarters": "Waipahu",
+    "numberOfLocations": 2,
+    "createdAt": "2026-05-24T13:21:44.213Z",
+    "updatedAt": "2026-05-24T13:21:44.213Z",
+    "__v": 0
+  }
+]
