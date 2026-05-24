@@ -13,7 +13,6 @@ export async function disconnectDB(): Promise<void> {
 }
 
 export function getDB() {
-    // Access the raw database connection via the client
     const client = mongoose.connection.getClient();
     if (!client) {
         throw new Error('MongoDB client not available');

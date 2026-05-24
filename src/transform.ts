@@ -161,10 +161,10 @@ export async function runTransformation(): Promise<void> {
                 { ...updatePayload, updatedAt: new Date() }
             );
 
-            console.log(`[${transformed._id}] ✓ Transformed: "${transformed.brandName}"\n`);
+            console.log(`[${transformed._id}] Transformed: "${transformed.brandName}"\n`);
             successCount++;
         } catch (err) {
-            console.error(`[${rawDoc._id}] ✗ Error: ${(err as Error).message}\n`);
+            console.error(`[${rawDoc._id}]  Error: ${(err as Error).message}\n`);
             errorCount++;
         }
     }

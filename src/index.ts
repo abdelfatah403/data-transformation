@@ -30,33 +30,24 @@ async function importData(): Promise<void> {
 }
 
 async function main(): Promise<void> {
-    console.log('='.repeat(60));
-    console.log('  Brands Data Pipeline');
-    console.log('='.repeat(60));
+
 
     await connectDB();
 
-    // Step 1 — Import raw JSON
-    console.log('\n[Step 1] Importing brands.json...');
+    console.log('Importing brands.json');
     await importData();
 
-    // Step 2 — Transform in-place
-    console.log('[Step 2] Transforming documents in-place...');
+    console.log('Transforming documents in-place');
     await runTransformation();
 
-    // Step 3 — Seed 10 new documents
-    console.log('[Step 3] Seeding new documents...');
+    console.log('Seeding new documents');
     await runSeeding();
 
-    // Step 4 — Export the full collection
-    console.log('[Step 4] Exporting brands collection...');
+    console.log('Exporting brands collection');
     await runExport();
 
     await disconnectDB();
-
-    console.log('\n' + '='.repeat(60));
-    console.log('  Pipeline complete.');
-    console.log('='.repeat(60));
+    console.log('Data pipeline completed successfully!');
 }
 
 main().catch(err => {

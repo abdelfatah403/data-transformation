@@ -95,7 +95,7 @@ export async function runSeeding(): Promise<void> {
         await brand.validate();
         await brand.save();
         console.log(
-            `✓ Seeded: "${brand.brandName}" (yearFounded: ${brand.yearFounded}, locations: ${brand.numberOfLocations})`
+            `Inserted: ${brand.brandName} (Founded: ${brand.yearFounded}, Locations: ${brand.numberOfLocations})`
         );
         successCount++;
     }
