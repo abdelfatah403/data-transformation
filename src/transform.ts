@@ -41,7 +41,7 @@ interface TransformResult {
     numberOfLocations: number;
     issues: string[];
 }
-
+//this is tronsformation function that takes a raw document and applies the transformation logic to produce a clean, validated document ready for database update. It also collects any issues encountered during transformation for logging purposes.
 function transformDocument(doc: Record<string, any>): TransformResult {
     const issues: string[] = [];
 
@@ -132,7 +132,7 @@ export async function runTransformation(): Promise<void> {
     const collection = db.collection('brands');
     const rawDocs = await collection.find({}).toArray();
 
-    console.log(`\nTransforming ${rawDocs.length} documents...\n`);
+    console.log(`Transforming ${rawDocs.length} documents...`);
 
     let successCount = 0;
     let errorCount = 0;
